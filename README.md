@@ -1,6 +1,6 @@
-# HousingDataset
+# House_Price_Dataset
 
-### Welcome to the GitHub repository for the Linear Regression analysis on a Housing Dataset. This repository contains a Jupyter notebook that demonstrates a simple linear regression model to predict housing prices.
+### Welcome to the GitHub repository for the Linear Regression analysis on a House price Dataset. This repository contains a Jupyter notebook that demonstrates a simple linear regression model to predict house prices.
 
 ## Table of Contents
 - Dataset
@@ -8,15 +8,15 @@
 - Dependencies
 - Results
 # Introduction
-This project aims to illustrate the basics of linear regression using a housing dataset. Linear regression is a fundamental statistical method used for predictive analysis, and this notebook is designed to be an introductory guide for anyone interested in learning about this technique.
+This project aims to illustrate the basics of linear regression using a house price dataset. Linear regression is a fundamental statistical method used for predictive analysis, and this notebook is designed to be an introductory guide for anyone interested in learning about this technique.
 
 ## Dataset
 **The dataset used in this analysis contains various features of houses, such as:**
 
-- Number of rooms
-- Square footage
+- Total Floors
+- Garage Area
 - Age of the house
-- Location
+- Total Basement
 - Price
 
 **The target variable is the price of the house.**
